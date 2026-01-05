@@ -10,9 +10,11 @@ This Power BI dashboard analyzes road accident data, highlighting trends and ins
 - Interactive filters
 
 ## Screenshots
-![Dashboard 1](road_accident_analysis_dashboard1.png)
+![Dashboard 1](dashbord1.png)
+
 
 
 ## File
 The full Power BI file is included: `Road_Accident_Analysis.pbix`
+
 
